@@ -4,19 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Adi+Sahrul+Ramadhan!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A Beginner who focuses on web development from Indonesia</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I am currently studying **informatics engineering**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I am currently studying **fullstack web programming on my own**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **My hobbies are playing games, exercising and adventuring.**
 
  </div>
  
