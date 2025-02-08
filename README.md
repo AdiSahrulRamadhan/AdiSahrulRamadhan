@@ -53,9 +53,9 @@
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=AdiSahrulRamadhan&show_icons=true&locale=en&layout=compact" alt="AdiSahrulRamadhan" />
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
+  <img width=390 src="https://github-readme-streak-stats-AdiSahrulRamadhan.vercel.app/?user=AdiSahrulRamadhan&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-AdiSahrulRamadhan.vercel.app/api?username=AdiSahrulRamadhan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
 <br/>
