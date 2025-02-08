@@ -52,9 +52,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center" style="display: flex; gap: 10px;">
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdiSahrulRamadhan&show_icons=true&locale=en&layout=compact" alt="AdiSahrulRamadhan" style="border: 2px solid white;" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=AdiSahrulRamadhan&show_icons=true&locale=en" alt="AdiSahrulRamadhan" style="border: 2px solid white;" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=AdiSahrulRamadhan&" alt="AdiSahrulRamadhan" style="border: 2px solid white;" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdiSahrulRamadhan&show_icons=true&locale=en&layout=compact" alt="AdiSahrulRamadhan" />
+  <br/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=AdiSahrulRamadhan&show_icons=true&locale=en" alt="AdiSahrulRamadhan" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=AdiSahrulRamadhan&" alt="AdiSahrulRamadhan" />
 </div>
 
 <hr/>
