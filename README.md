@@ -44,7 +44,7 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AdiSahrulRamadhan/AdiSahrulRamadhan/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
 
 <hr/>
@@ -57,6 +57,5 @@
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=AdiSahrulRamadhan&show_icons=true&locale=en" alt="AdiSahrulRamadhan" />
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=AdiSahrulRamadhan&" alt="AdiSahrulRamadhan" />
 </div>
-<br/>
 
 <hr/>
